@@ -7,7 +7,9 @@ public class Demo {
 	@Test
 	public void DemoGitHub()
 	{
-		System.out.println("hi this is my first project");
+		System.out.println("first user 1");
+		
+		System.out.println("second user connected");
 	}
 
 }
